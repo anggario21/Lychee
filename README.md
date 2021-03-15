@@ -45,6 +45,12 @@
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+* ### Favorite
+![favorite](https://user-images.githubusercontent.com/48718969/111183599-a870cd00-85e2-11eb-8822-452ccb1ca2bb.JPG)
+* ### Move 
+![move](https://user-images.githubusercontent.com/48718969/111183671-bd4d6080-85e2-11eb-92e2-57f9934f7bf2.png)
+* ### Rotate
+![rotate](https://user-images.githubusercontent.com/48718969/111183805-e3730080-85e2-11eb-9f47-be64b83137a9.JPG)
 
 
 
