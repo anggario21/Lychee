@@ -28,6 +28,12 @@
 
 # Maintenance
 [`^ kembali ke atas ^`](#)
+* ### Logs
+![Screenshot (779)](https://user-images.githubusercontent.com/48718969/111182496-89257000-85e1-11eb-9167-77f697157ded.png)
+* ### Diagnostic
+![Screenshot (780)](https://user-images.githubusercontent.com/48718969/111182608-a65a3e80-85e1-11eb-83c3-8ade044804cc.png)
+
+![Screenshot (781)](https://user-images.githubusercontent.com/48718969/111182629-ac501f80-85e1-11eb-9a5b-85f81c26183f.png)
 
 
 
