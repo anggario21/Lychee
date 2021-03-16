@@ -22,7 +22,7 @@
 - CPU minimal 2Ghz Dual Processor
 
 #### Proses Instalasi :
-1. Login ke server dengan username dan password
+1. Login ke server dengan username dan password masing masing
 
 2. Install dan update kebutuhan sistem seperti `Apache`, `PHP`, dan `MySQL`.
    ```
@@ -35,7 +35,7 @@
     $ sudo apt-get install openssl php-common php-curl php-json php-mbstring php-mysql php-xml php-zip php-tokenizer php-gd php-imagick
     $ dpkg --list | grep php
    ```
-3. Install `Composer Way`
+3. Install Lychee dengan menggunakan `Composer`
    ```
     $ sudo apt-get install git
     $ sudo apt-get install composer
@@ -75,7 +75,6 @@
       ErrorLog /var/log/apache2/your-domain.com-error_log
       CustomLog /var/log/apache2/your-domain.com-access_log common
       </VirtualHost>
- 
      ```
  
 
