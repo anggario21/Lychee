@@ -203,8 +203,8 @@
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
-*Software photo
-
+Software management foto ini memberikan banyak fitur bermanfaat untuk pengelolaan foto. 
+Memberikan akses kepada pengguna untuk membuat repository foto untuk server websitenya.
 
 
 # Referensi
