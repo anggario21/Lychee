@@ -29,15 +29,24 @@
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 1. Pengaturan *Sorting* dan *Dropbox key* untuk menghubungkan ke *Dropbox*
+
 <img src="img/config1.png"/>
+
 2. Pengaturan *Layout*
+
 <img src="img/config2.png"/>
+
 3. Pengaturan *Image Overlay*
+
 <img src="img/config3.png"/>
 <img src="img/config4.png"/>
+
 4. Pengaturan lokasi foto
+
 <img src="img/config5.png"/>
+
 5. Pengaturan *Visibility* dan CSS 
+
 <img src="img/config6.png"/>
 
 
