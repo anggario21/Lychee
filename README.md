@@ -76,8 +76,50 @@
       CustomLog /var/log/apache2/your-domain.com-access_log common
       </VirtualHost>
      ```
- 
-
+ 6. Mennyalakan site `Apache`.
+     ```
+      $ sudo a2ensite lychee.conf (pada directory /var/www/html/)
+     ```
+ 7. Merestart `Apache`.
+     ```
+      $ sudo service apache2 restart
+     ```
+ 8. Mengecek IP Adress komputer.
+     ```
+      $ hostname -I
+     ```
+ 9. Instalasi lanjutan 
+      - Welcome to **Lychee**
+        ![Screenshot (14)](https://user-images.githubusercontent.com/60083608/111331720-c4887300-86a3-11eb-97f9-0442e0b4d57a.png)
+      - Mengecek kelengkapan `Apache` dan `PHP`.
+        ![Screenshot (109)](https://user-images.githubusercontent.com/60083608/111331954-f6013e80-86a3-11eb-9247-b5263acac979.png)
+        ![Screenshot (116)](https://user-images.githubusercontent.com/60083608/111331961-f8639880-86a3-11eb-9b1b-e740f8126e78.png)
+      - Mengecek *Permission*
+        ![Screenshot (222)](https://user-images.githubusercontent.com/60083608/111332301-3d87ca80-86a4-11eb-9d3e-621864999235.png)
+        ![Screenshot (223)](https://user-images.githubusercontent.com/60083608/111332311-41b3e800-86a4-11eb-814a-6714f62c2daa.png)
+      - Membuat database dan mengedit konfigurasi
+        ![Screenshot (224)](https://user-images.githubusercontent.com/60083608/111332862-bb4bd600-86a4-11eb-9859-150effa5d914.png)
+        ![Screenshot (225)](https://user-images.githubusercontent.com/60083608/111332868-bd159980-86a4-11eb-9618-f6d816053ba4.png)
+        ![Screenshot (226)](https://user-images.githubusercontent.com/60083608/111332874-be46c680-86a4-11eb-9c12-943a47e421ed.png)
+        ![Screenshot (227)](https://user-images.githubusercontent.com/60083608/111332879-bf77f380-86a4-11eb-898c-ffcc6237934a.png)
+         ```
+            $ sudo mysql -u root -p -v -e "
+               CREATE DATABASE lychee;
+               CREATE USER 'lycheeuser'@'localhost' IDENTIFIED BY 'lycheepassword';
+               GRANT ALL PRIVILEGES ON lychee.* TO 'lycheeuser'@'localhost';
+               FLUSH PRIVILEGES;"
+               
+            DB_CONNECTION=mysql
+            DB_HOST=localhost
+            DB_PORT=3306
+            DB_DATABASE=lychee
+            DB_USERNAME=lycheeuser
+            DB_PASSWORD=lycheepassword
+            DB_LOG_SQL=false
+         ```
+       - Jika berhasil maka muncul status "Application key set successfully"
+         ![Screenshot (342)](https://user-images.githubusercontent.com/60083608/111333416-42994980-86a5-11eb-9059-9f940446369d.png)
+         
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
@@ -160,7 +202,8 @@
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
-Lychee membantu kita dalam mengelola gambar
+
+
 
 
 # Referensi
