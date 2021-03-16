@@ -211,3 +211,5 @@
 
 
 1. [How to install Lychee on Ubuntu 16.04](https://www.youtube.com/watch?v=MpkJCrRfVCQ) - Youtube
+2. [Cara Install Ubuntu Server 18.04 LTS pada Virtual Machine](https://degananda.com/cara-install-ubuntu-server-18-04-lts-pada-virtual-machine/) - degananda.com
+3. [Lychee Prologue](https://lycheeorg.github.io/docs/org.html) - Github
