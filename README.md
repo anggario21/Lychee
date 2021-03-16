@@ -88,8 +88,18 @@
 ![Screenshot (758)](https://user-images.githubusercontent.com/48718969/111311135-6e5e0480-8690-11eb-8a91-06f5e546ce34.png)
 * ### About
 ![Screenshot (520)](https://user-images.githubusercontent.com/48718969/111316308-bc293b80-8695-11eb-8c5e-4db20f77ec9b.png)
-* ### Delete image
+* ### Delete photo
 ![Screenshot (695)](https://user-images.githubusercontent.com/48718969/111316511-e975e980-8695-11eb-89be-b7388b63a433.png)
+* ### Visibility
+![Screenshot (741)](https://user-images.githubusercontent.com/48718969/111317107-6c973f80-8696-11eb-9291-76e0607068a1.png)
+
+![Screenshot (742)](https://user-images.githubusercontent.com/48718969/111317140-71f48a00-8696-11eb-92ca-9008cd8e3a59.png)
+* ### Share photo
+![Screenshot (759)](https://user-images.githubusercontent.com/48718969/111317338-a405ec00-8696-11eb-8327-b507faf8b1c3.png)
+* ### Photo View 
+![Screenshot (760)](https://user-images.githubusercontent.com/48718969/111317764-06f78300-8697-11eb-884f-6637446e2603.png)
+
+
 
 
 
