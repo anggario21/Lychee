@@ -164,9 +164,9 @@
 [`^ kembali ke atas ^`](#)
 * ### Upload photo from local
 Digunakan untuk mengupload image dari file manager
-<img src="img/Upload lcoal 1.png"/>
-<img src="img/Upload lcoal 2.png"/>
-<img src="img/Upload lcoal 3.png"/>
+<img src="img/Upload local 1.png"/>
+<img src="img/Upload local 2.png"/>
+<img src="img/Upload local 3.png"/>
 
 * ### Upload from link
 Digunakan untuk mengupload image dari link internet.
