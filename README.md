@@ -22,8 +22,26 @@
 - CPU minimal 2Ghz Dual Processor
 
 #### Proses Instalasi :
+1. Login ke server dengan username dan password
 
-
+2. Install dan update kebutuhan sistem seperti `Apache`, `PHP`, dan `MySQL`.
+   ```
+    $ sudo apt-get update
+    $ sudo apt-get install apache2
+    $ sudo apt-get install mysql-server
+    $ sudo apt-get install php
+    $ sudo apt-get install libapache2-mod-php
+    $ sudo apt-get install php-mysql
+    $ sudo apt-get install openssl php-common php-curl php-json php-mbstring php-mysql php-xml php-zip php-tokenizer php-gd php-imagick
+    $ dpkg --list | grep php
+   ```
+3. Install *Composer Way*
+   ```
+    $ sudo apt-get install git
+    $ sudo apt-get install composer
+   ```
+4. 
+ 
 
 
 # Konfigurasi
