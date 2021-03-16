@@ -221,6 +221,8 @@ Setelah terinstall, sofware ini memiliki interface yang sangat baik, tampilan me
 - Hanya berbasis Bahasa Inggris
 
 
+Bila dibandingkan dengan software management foto lain, seperti Photonix. Lychee punya keunggulan dalam tampilan yang sederhana untuk digunakan sabagai pengelolaan, sistem yang digunakan juga tidak rumit sehingga error mudah diperbaiki. Software Photonix lebih berat digunakan sebab fitur yang diberikan juga lebih banyak dan sistem yang digunakan juga lebih rumit sebab photonix mampu memroses gambar dengan mengenali objek dalam gambar. 
+
 # Referensi
 [`^ kembali ke atas ^`](#)
 
