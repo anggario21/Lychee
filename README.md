@@ -35,12 +35,31 @@
     $ sudo apt-get install openssl php-common php-curl php-json php-mbstring php-mysql php-xml php-zip php-tokenizer php-gd php-imagick
     $ dpkg --list | grep php
    ```
-3. Install *Composer Way*
+3. Install `Composer Way`
    ```
     $ sudo apt-get install git
     $ sudo apt-get install composer
+    $ sudo chmod 777 /var/www/html
+    $ git clone https://www.github.com/LycheeOrg/Lychee /var/www/html/Lychee
+    $ cd /var/www/html/Lychee
+    $ composer install --no-dev
+    $ sudo chown -R www-data:www-data /var/www/html/Lychee
+    $ sudo chmod -R 775 /var/www/html/Lychee
+
    ```
-4. 
+4. File konfigurasi `Apache`.
+   - Menghapus konfigurasi default
+     ```
+      $ sudo rm /etc/apache2/sites-available/000-default.conf
+      $ sudo rm /etc/apache2/sites-enabled/000-default.conf
+     ```
+   - Membuat konfigurasi baru untuk lychee
+     ```
+      $ sudo a2enmod rewrite
+      $ sudo touch /etc/apache2/sites-available/lychee.conf
+      $ sudo nano /etc/apache2/sites-available/lychee.conf
+     ```
+ 
  
 
 
@@ -130,5 +149,6 @@
 
 # Referensi
 [`^ kembali ke atas ^`](#)
+
 
 1. [How to install Lychee on Ubuntu 16.04](https://www.youtube.com/watch?v=MpkJCrRfVCQ) - Youtube
