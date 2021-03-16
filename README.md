@@ -8,12 +8,18 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
+**Lychee** merupakan *photo-management-system* yang dapat diakses secara gratis. Semenjak 1 April 2018 , **Lychee** berada pada naungan organisasinya sendiri (*LycheeOrg*) dimana semua orang dapat menambahkan perbaikan pada **Lychee**.
 
 # Instalasi
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
-
+- Webserver (Apache atau nginx)
+- MySQL >5.7.8 / MariaDB 10.2 / Lychee's inbuilt SQLite3 support
+- PHP >= 7.4 with various extension.
+- RAM minimal 512 MB
+- Hard Disk Space minimal 25 GB
+- CPU minimal 2Ghz Dual Processor
 
 #### Proses Instalasi :
 
