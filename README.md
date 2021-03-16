@@ -66,8 +66,10 @@
 * ### Move 
 ![move](https://user-images.githubusercontent.com/48718969/111183671-bd4d6080-85e2-11eb-92e2-57f9934f7bf2.png)
 * ### Rotate
+1.
 ![rotate](https://user-images.githubusercontent.com/48718969/111183805-e3730080-85e2-11eb-9f47-be64b83137a9.JPG)
-
+2. 
+![Screenshot (758)](https://user-images.githubusercontent.com/48718969/111311135-6e5e0480-8690-11eb-8a91-06f5e546ce34.png)
 
 
 # Pembahasan
