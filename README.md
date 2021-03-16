@@ -157,10 +157,15 @@
 
 
 
-
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
-* ### Import from link 
+* ### Upload photo from local
+Digunakan untuk mengupload image dari file manager
+<img src="img/Upload lcoal 1.png"/>
+<img src="img/Upload lcoal 2.png"/>
+<img src="img/Upload lcoal 3.png"/>
+
+* ### Upload from link
 Digunakan untuk mengupload image dari link internet.
 ![Screenshot (446)](https://user-images.githubusercontent.com/48718969/111315843-589f0e00-8695-11eb-845f-fe30ab56c0f5.png)
 ![Screenshot (700)](https://user-images.githubusercontent.com/48718969/111315899-63f23980-8695-11eb-9de6-f549a31d9374.png)
