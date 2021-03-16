@@ -162,31 +162,33 @@
 [`^ kembali ke atas ^`](#)
 * ### Import from link 
 Digunakan untuk mengupload image dari link internet.
-1. 
 ![Screenshot (446)](https://user-images.githubusercontent.com/48718969/111315843-589f0e00-8695-11eb-845f-fe30ab56c0f5.png)
-2. 
 ![Screenshot (700)](https://user-images.githubusercontent.com/48718969/111315899-63f23980-8695-11eb-9de6-f549a31d9374.png)
-3. 
-![Screenshot (717)](https://user-images.githubusercontent.com/48718969/111315994-77050980-8695-11eb-8cfe-d5095e30531f.png)
+
 * ### Favorite
 ![favorite](https://user-images.githubusercontent.com/48718969/111183599-a870cd00-85e2-11eb-8822-452ccb1ca2bb.JPG)
+
 * ### Move 
 ![move](https://user-images.githubusercontent.com/48718969/111183671-bd4d6080-85e2-11eb-92e2-57f9934f7bf2.png)
+
 * ### Rotate
-1.
 ![rotate](https://user-images.githubusercontent.com/48718969/111183805-e3730080-85e2-11eb-9f47-be64b83137a9.JPG)
-2. 
 ![Screenshot (758)](https://user-images.githubusercontent.com/48718969/111311135-6e5e0480-8690-11eb-8a91-06f5e546ce34.png)
+
 * ### About
 ![Screenshot (520)](https://user-images.githubusercontent.com/48718969/111316308-bc293b80-8695-11eb-8c5e-4db20f77ec9b.png)
+
 * ### Delete photo
 ![Screenshot (695)](https://user-images.githubusercontent.com/48718969/111316511-e975e980-8695-11eb-89be-b7388b63a433.png)
+
 * ### Visibility
 ![Screenshot (741)](https://user-images.githubusercontent.com/48718969/111317107-6c973f80-8696-11eb-9291-76e0607068a1.png)
 
 ![Screenshot (742)](https://user-images.githubusercontent.com/48718969/111317140-71f48a00-8696-11eb-92ca-9008cd8e3a59.png)
+
 * ### Share photo
 ![Screenshot (759)](https://user-images.githubusercontent.com/48718969/111317338-a405ec00-8696-11eb-8327-b507faf8b1c3.png)
+
 * ### Photo View 
 ![Screenshot (760)](https://user-images.githubusercontent.com/48718969/111317764-06f78300-8697-11eb-884f-6637446e2603.png)
 
