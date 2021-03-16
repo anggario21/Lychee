@@ -160,7 +160,7 @@
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
-
+Lychee membantu kita dalam mengelola gambar
 
 
 # Referensi
