@@ -205,6 +205,8 @@
 
 Software management foto ini memberikan banyak fitur bermanfaat untuk pengelolaan foto. 
 Memberikan akses kepada pengguna untuk membuat repository foto untuk server websitenya.
+Setelah terinstall, sofware ini memiliki interface yang sangat baik, tampilan membantu user untuk menggunakan fitur-fitur yang ada.
+
 
 
 # Referensi
