@@ -59,7 +59,7 @@
       $ sudo touch /etc/apache2/sites-available/lychee.conf
       $ sudo nano /etc/apache2/sites-available/lychee.conf
      ```
- 5. Pada konfigurasi `Apache` baru yang terbuka, isikan konfigurasi sebagai berikut
+ 5. Pada file konfigurasi `Apache` baru yang terbuka, isikan konfigurasi sebagai berikut
      ```
      <VirtualHost *:80>
       ServerAdmin admin@your-domain.com
@@ -76,7 +76,7 @@
       CustomLog /var/log/apache2/your-domain.com-access_log common
       </VirtualHost>
      ```
- 6. Mennyalakan site `Apache`.
+ 6. Mennyalakan site `Lychee` pada `Apache`.
      ```
       $ sudo a2ensite lychee.conf (pada directory /var/www/html/)
      ```
@@ -88,7 +88,7 @@
      ```
       $ hostname -I
      ```
- 9. Instalasi lanjutan 
+ 9. Instalasi lanjutan. Silahkan buka browser dan menuju ke link sesuai `IP Address` atau `localhost`.
       - Welcome to **Lychee**
         ![Screenshot (14)](https://user-images.githubusercontent.com/60083608/111331720-c4887300-86a3-11eb-97f9-0442e0b4d57a.png)
       - Mengecek kelengkapan `Apache` dan `PHP`.
@@ -123,7 +123,7 @@
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
-1. Pengaturan *Sorting* dan *Dropbox key* untuk menghubungkan ke *Dropbox*
+1. Pengaturan *Sorting* untuk mengatur tampilan urutan foto dan *Dropbox key* untuk menghubungkan ke *Dropbox*
 
 <img src="img/config1.png"/>
 
@@ -157,15 +157,11 @@
 
 
 
-# Otomatisasi
-[`^ kembali ke atas ^`](#)
-
-
-
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 * ### Import from link 
+Digunakan untuk mengupload image dari link internet.
 1. 
 ![Screenshot (446)](https://user-images.githubusercontent.com/48718969/111315843-589f0e00-8695-11eb-845f-fe30ab56c0f5.png)
 2. 
@@ -193,11 +189,6 @@
 ![Screenshot (759)](https://user-images.githubusercontent.com/48718969/111317338-a405ec00-8696-11eb-8327-b507faf8b1c3.png)
 * ### Photo View 
 ![Screenshot (760)](https://user-images.githubusercontent.com/48718969/111317764-06f78300-8697-11eb-884f-6637446e2603.png)
-
-
-
-
-
 
 
 # Pembahasan
