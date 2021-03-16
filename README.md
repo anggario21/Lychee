@@ -130,3 +130,5 @@
 
 # Referensi
 [`^ kembali ke atas ^`](#)
+
+1. [How to install Lychee on Ubuntu 16.04](https://www.youtube.com/watch?v=MpkJCrRfVCQ) - Youtube
