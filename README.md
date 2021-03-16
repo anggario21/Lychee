@@ -207,6 +207,16 @@ Software management foto ini memberikan banyak fitur bermanfaat untuk pengelolaa
 Memberikan akses kepada pengguna untuk membuat repository foto untuk server websitenya.
 Setelah terinstall, sofware ini memiliki interface yang sangat baik, tampilan membantu user untuk menggunakan fitur-fitur yang ada.
 
+##Pros
+- Mudah untuk diinstall melalui web ataupun server dengan FTP
+- Interface yang menarik dan membantu pengguna
+- Operasi mudah dilakukan
+- Fitur rencarian file dengan data gambar yang besar 
+
+##Cons
+- Tidak ada fitur kompresi dan editing lainnya
+- Tidak ada manual penggunaan
+- Hanya berbasis Bahasa Inggris
 
 
 # Referensi
