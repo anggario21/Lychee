@@ -119,6 +119,9 @@
          ```
        - Jika berhasil maka muncul status "Application key set successfully"
          ![Screenshot (342)](https://user-images.githubusercontent.com/60083608/111333416-42994980-86a5-11eb-9059-9f940446369d.png)
+  
+  10. Anda akan diarahkan ke tampilan awal dimana anda harus membuat username dan password baru
+  <img src="img/awal.png"/>
          
 
 # Konfigurasi
