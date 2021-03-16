@@ -59,7 +59,24 @@
       $ sudo touch /etc/apache2/sites-available/lychee.conf
       $ sudo nano /etc/apache2/sites-available/lychee.conf
      ```
+ 5. Pada konfigurasi `Apache` baru yang terbuka, isikan konfigurasi sebagai berikut
+     ```
+     <VirtualHost *:80>
+      ServerAdmin admin@your-domain.com
+      DocumentRoot /var/www/html/Lychee/public
+      ServerName your-domain.com
+      ServerAlias www.your-domain.com
+      <Directory /var/www/html/Lychee/>
+      Options FollowSymLinks
+      AllowOverride All
+      Order allow,deny
+      allow from all
+      </Directory>
+      ErrorLog /var/log/apache2/your-domain.com-error_log
+      CustomLog /var/log/apache2/your-domain.com-access_log common
+      </VirtualHost>
  
+     ```
  
 
 
