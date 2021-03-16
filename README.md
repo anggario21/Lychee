@@ -200,6 +200,9 @@ Digunakan untuk mengupload image dari link internet.
 * ### Photo View 
 ![Screenshot (760)](https://user-images.githubusercontent.com/48718969/111317764-06f78300-8697-11eb-884f-6637446e2603.png)
 
+* ### Search
+Digunakan untuk mencari gambar atau album berdasarkan keyword
+<img src="img/search.JPG"/>
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
